@@ -1,6 +1,6 @@
 import pickle
 import streamlit as st
-from surprise as SVD 
+from surprise import SVD 
 
 # Load data back from the file
 with open('65130701940recommendation_movie_svd.pkl', 'rb') as file:
