@@ -1,5 +1,3 @@
-import surprise
-print(surprise.__version__)
 import pickle
 import streamlit as st
 from surprise import SVD
