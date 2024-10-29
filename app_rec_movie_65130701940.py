@@ -1,4 +1,4 @@
-
+pip install scikit-surprise
 import pickle
 import streamlit as st
 from surprise import SVD
